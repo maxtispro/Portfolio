@@ -1,2 +1,2 @@
 # Portfolio
-Various projects and code snippets portraying my coding skills and organization.
+These are my various projects and code snippets to display my coding skills.
