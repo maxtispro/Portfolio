@@ -1,0 +1,19 @@
+.root {
+    -fx-font-size: 11pt;
+}
+
+#toolbar-button {
+    -fx-background-color: transparent;
+}
+
+#toolbar-button:hover {
+    -fx-background-color: rgb(221, 221, 221);
+}
+
+#toolbar-button > .arrow-button {
+    -fx-padding: 0;
+}
+
+#toolbar-button > .arrow-button > .arrow {
+    -fx-padding: 0;
+}
